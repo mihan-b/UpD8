@@ -30,3 +30,5 @@ The biggest challenge we faced was trying to get APIs to work properly. This is 
 
 ## What's Next
 Adding features like other sports leagues, news, personal calendar reminders and more
+
+<img width="870" alt="Screen Shot 2023-01-15 at 3 19 01 PM" src="https://user-images.githubusercontent.com/97782125/212564858-88033382-f027-4efb-a758-9c2b3b89dae8.png">
