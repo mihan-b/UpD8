@@ -8,6 +8,7 @@ from discord.ext import commands
 from get import get_stock
 from get import get_weather
 from get import get_score
+from ai import generate_response
 
 TOKEN = os.environ['token']
 intents = discord.Intents.default()
@@ -94,7 +95,8 @@ async def on_message(message):
     stock3 = get_stock(data["tag3"])
     score = get_score("NBA", data["sports"])
     weather = get_weather(data["location"])
-    text = weather + "\n" +  stock1 + "\n" + stock2 + "\n" + stock3 + "\n" + score
+    prompt = weather + "\n" +  stock1 + "\n" + stock2 + "\n" + stock3 + "\n" + score
+    text = generate_response(prompt)
     await message.channel.send(text)
    
     

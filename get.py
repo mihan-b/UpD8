@@ -2,7 +2,7 @@ import requests
 
 
 def get_stock(tag):
-  link = "https://finance.yahoo.com/quote/" + tag
+  link = "https://finance.yahoo.com/quote/" + tag.upper()
   print(link)
   raw = requests.get(link)
   rawtext = raw.text
