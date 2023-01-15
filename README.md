@@ -31,10 +31,12 @@ We used Replit to run our code and collaborate.
 We created an app mockup in Figma to demonstrate the vision we have for UpD8
 
 ## Mockup
+
 We created an app mockup in Figma to demonstrate the vision we have for UpD8
 
 [Link to UpD8 App Mockup](https://www.figma.com/proto/Qes04Lus0SI1I7UMhx756l/UpD8?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
 
+https://user-images.githubusercontent.com/97782125/212565544-a072f78a-35aa-443e-b2d5-536cccd30bef.mov
 
 ## Unexpected Challenges
 The biggest challenge we faced was trying to get APIs to work properly. This is why we ended up using web scraping to create our own. 
