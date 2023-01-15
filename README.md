@@ -27,6 +27,11 @@ We created our own APIs in the `get.py` file by web scraping. Web scraping is te
 ## Replit
 We used Replit to run our code and collaborate.
 
+## Prototype
+We created an app mockup in Figma to demonstrate the vision we have for UpD8
+
+https://www.figma.com/proto/Qes04Lus0SI1I7UMhx756l/UpD8?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
+
 ## Unexpected Challenges
 The biggest challenge we faced was trying to get APIs to work properly. This is why we ended up using web scraping to create our own. 
 
