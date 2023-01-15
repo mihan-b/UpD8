@@ -1,1 +1,2 @@
-# dh9
+# UpD8
+Upd8 is a discord bot that keeps you updated on the latest news and information. You can set up the bot with your preferences such as your name, location, NBA team, and stocks to follow. You can also use it to check for the current stock prices, weather, and sports scores by simply sending a command. It also sends you a daily update of your preferences. Upd8 keeps you informed and saves you time in finding the latest updates on the things that matter to you.
